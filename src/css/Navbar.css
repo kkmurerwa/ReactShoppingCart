@@ -1,0 +1,12 @@
+.NavContainer {
+    text-align: center;
+    font-size: 25px;
+}
+
+.NavContainer a {
+    text-decoration: none;
+}
+
+.NavContainer a:hover {
+    text-decoration: underline;
+}
